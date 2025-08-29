@@ -1,0 +1,42 @@
+ 
+
+/* nav, ul{
+    display: flex;
+    width: 100%;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    gap: 34px;
+} */
+
+nav{
+    background-color: beige;
+    padding: 20px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+}
+
+
+
+div{
+    width: 100%;
+     gap: 34px;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    gap: 40px;
+    text-decoration:underline;
+}
