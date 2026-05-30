@@ -1,10 +1,14 @@
  
-
+import Chai from "./chai" 
 function App() {
- 
-  return (
- <h1>Hello World Using Vite Library</h1>
-  )
+   const username = "Chai aur Coffee"
+   return (
+   <>  
+    <Chai />
+    <p>Welcome to React Js</p>
+   </>
+   )
+
 }
 
 export default App
